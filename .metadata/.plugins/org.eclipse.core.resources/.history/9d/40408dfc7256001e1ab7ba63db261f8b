@@ -1,0 +1,1 @@
+insert into comida(titulo, imagem , preco) VALUES('Pizza', 'https://drive.google.com/drive/folders/1RFF6aeZKpVBn5-X_37_SFj4m4KZBlqFZ', 5.09);

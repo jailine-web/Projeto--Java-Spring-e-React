@@ -1,0 +1,7 @@
+package com.example.demo.DTO;
+
+import com.example.demo.entities.Comida;
+
+public record ComidaRequisicaoDTO(String titulo, String imagem, Double preco) {
+
+} 

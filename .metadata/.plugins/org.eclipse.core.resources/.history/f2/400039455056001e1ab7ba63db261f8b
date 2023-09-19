@@ -1,0 +1,13 @@
+package com.example.demo.DTO;
+
+import com.example.demo.entities.Comida;
+
+public record ComidaDTO(Long id, String titulo, String imagem, Double preco) {
+	
+	public ComidaDTO (Comida comida) {
+		this.id = comida.getId();
+		this.titulo = comida.getTitulo();
+		this.imagem = comida.getImagem();
+		this.preco = comida.getPreco();
+	}
+}

@@ -1,0 +1,1 @@
+insert into comida(titulo, imagem , preco) VALUES('Pizza', 'https://blog.ceraflame.com.br/wp-content/uploads/2021/06/Pizza-Napolitana-CERAFLAME-480x270.jpg', 5.09);
