@@ -32,6 +32,10 @@ listagem e ainserção dos dados via interface.
 //Rodar o servidor node
 npm run dev
 ```
+```bash
+// Criar a construção inicial do projeto : o latest pega a versão mais nova do vite
+npm create vite@latest
+```
 
 ### Autora: 
 Jailine Almeida
