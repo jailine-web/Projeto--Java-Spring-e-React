@@ -1,1 +1,0 @@
-insert into comida(titulo, imagem , preco) VALUES('Pizza', 'pexels-kristina-paukshtite-1146760.jpg', 5.09);

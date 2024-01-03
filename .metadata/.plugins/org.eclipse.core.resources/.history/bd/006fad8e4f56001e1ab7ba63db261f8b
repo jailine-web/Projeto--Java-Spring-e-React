@@ -1,5 +1,0 @@
-package com.example.demo.DTO;
-
-public record ComidaDTO(Long id, String titulo, String imagem, Double preco) {
-	
-}

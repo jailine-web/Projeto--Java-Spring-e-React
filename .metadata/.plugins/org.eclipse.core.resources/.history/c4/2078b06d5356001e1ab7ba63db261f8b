@@ -1,1 +1,0 @@
-insert into comida(titulo, imagem, preco) VALUES('Pizza', 'imagem' 5.09);
